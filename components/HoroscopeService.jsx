@@ -233,7 +233,6 @@ marginBottom: '24px'
 親子の四元素診断
 </h1>
 
-```
     {/* 入力フォーム */}
     <div style={{ marginBottom: '24px' }}>
       <div style={{ 
